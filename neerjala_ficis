@@ -1,0 +1,6 @@
+Need to verify on deployment:
+1. order of features
+2. Modified features values
+
+Testing in prod:
+1. Analytics team will work on threshold verification on production data. So before transferring data from dw to app, Analytics team will do one level of analysis.
